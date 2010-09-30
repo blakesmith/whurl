@@ -1,0 +1,2 @@
+# Whurl
+require 'whurl/command'
